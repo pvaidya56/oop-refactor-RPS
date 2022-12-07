@@ -1,4 +1,4 @@
-# Refactor this Rock Paper Scissors games
+# Refactor this Rock Paper Scissors game
 
 Work with your group to complete this activity. Read the directions carefully and follow them step by step.
 
